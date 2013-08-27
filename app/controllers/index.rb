@@ -1,5 +1,4 @@
 
-
 get '/' do
   @anagram_results = params[:anagram_result]
   # Look in app/views/index.erb
